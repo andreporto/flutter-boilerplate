@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/saladatec/Projetos/estudo-flutter/flutter_course/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/saladatec/Projetos/estudo-flutter/flutter-boilerplate/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/saladatec/Projetos/estudo-flutter/flutter_course/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/saladatec/Projetos/estudo-flutter/flutter-boilerplate/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/saladatec/Projetos/estudo-flutter/flutter_course/build/app/intermediates/res/merged/debug/values_values.arsc.flat",
+            "outputFile": "/Users/saladatec/Projetos/estudo-flutter/flutter-boilerplate/build/app/intermediates/res/merged/debug/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/saladatec/Projetos/estudo-flutter/flutter_course/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/saladatec/Projetos/estudo-flutter/flutter-boilerplate/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
